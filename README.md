@@ -4,6 +4,8 @@ Neon Random is a deterministic, seedable, serializable RNG solution for Unity.
 
 Available for free on the Unity Asset Store or on [GitHub](https://github.com/Neon-Specter-Games/Neon-Random)
 
+NOTE: If you want to use this for a non-Unity project, you can easily convert make it engine-agnostic by replacing a couple of math and logging calls.
+
 ---
 
 ## Features
